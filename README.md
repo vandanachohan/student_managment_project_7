@@ -1,10 +1,11 @@
-roject Title
+Project Title
 
 Student Management System
 
 Description
 
-A web-based application for managing student information, built using TypeScript.
+A web-based application for managing student information, built using TypeScript and [insert frameworks/libraries used]. This system allows administrators to add, edit, and delete student records, as well as manage courses.
+
 
 Features
 
